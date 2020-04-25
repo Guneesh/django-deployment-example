@@ -26,7 +26,7 @@ SECRET_KEY = '5#slvc2cbvzj1x6w+c=dyz%t1^ffeed4#fjo03u_0fqw-i5-bb'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['guneesh.pythonanywhere.com']
 
 
 # Application definition
